@@ -1,4 +1,7 @@
 # Blog-frontend
+Inspired by Wojtek Gorecki's My-Blog project.
+URL: http://9elements.com/io/index.php/an-ember-js-application-with-a-rails-api-backend/
+
 
 This README outlines the details of collaborating on this Ember application.
 A short introduction of this app could easily go here.
